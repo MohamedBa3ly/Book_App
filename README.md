@@ -1,6 +1,6 @@
 # 📚 Book App
 
-A Book App that allows users to browse and preview books. Built with **Cubit** for state management, **GetIt** for dependency injection, and **GoRouter** for navigation, following the **MVVM architecture**.
+A Flutter Book App that allows users to browse and preview books. Built with **Cubit** for state management, **GetIt** for dependency injection, and **GoRouter** for navigation, following the **MVVM architecture**.
 
 ---
 
