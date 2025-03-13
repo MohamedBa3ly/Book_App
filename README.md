@@ -18,8 +18,8 @@ A Book App that allows users to browse and preview books. Built with **Cubit** f
 ---
 
 ## 📸 Screenshots
-<img src="assets/images/Screenshot_20250313_010055.png" width="300"/> <img src="screenshots/book_preview.png" width="300"/>  
-<img src="assets/images/Screenshot_20250313_010219.png" width="300"/> <img src="screenshots/book_preview.png" width="300"/> 
+<img src="assets/images/Screenshot_20250313_010055.png" width="300"/>  
+<img src="assets/images/Screenshot_20250313_010219.png" width="300"/> 
 
 ---
 
