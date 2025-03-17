@@ -32,10 +32,6 @@ A Flutter Book App that allows users to browse and preview books. Built with **C
 
 ---
 
-## 🚀 Setup & Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/MohamedBa3ly/Book_App_Flutter.git
-   cd Book_App_Flutter
+
 
 
