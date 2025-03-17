@@ -12,6 +12,15 @@ A Flutter Book App that allows users to browse and preview books. Built with **C
 
 ---
 
+## 🛠️ Tech Stack
+- **State Management:** Cubit
+- **Dependency Injection:** GetIt
+- **Navigation:** GoRouter
+- **Architecture:** MVVM
+- **Backend:** API Data Fetching
+
+---
+
 ## 🎥 Demo GIF
 <img src="assets/images/book.gif" width="400"/>  
 
@@ -23,14 +32,6 @@ A Flutter Book App that allows users to browse and preview books. Built with **C
 
 ---
 
-## 🛠️ Tech Stack
-- **State Management:** Cubit
-- **Dependency Injection:** GetIt
-- **Navigation:** GoRouter
-- **Architecture:** MVVM
-- **Backend:** API Data Fetching
-
----
 
 
 
